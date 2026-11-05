@@ -1,1 +1,1 @@
-# Gateway: one door to every model
+# LLM gateway: one door to every model
