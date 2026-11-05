@@ -1,0 +1,10 @@
+{
+  "model": "qwen2.5:7b",
+  "messages": [
+    {"role": "system", "content": "Answer in one sentence."},
+    {"role": "user", "content": "What is a reverse proxy?"}
+  ],
+  "stream": false,
+  "max_tokens": 100,
+  "temperature": 0
+}

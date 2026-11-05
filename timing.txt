@@ -1,0 +1,1 @@
+dns %{time_namelookup}\ntcp %{time_connect}\ntls %{time_appconnect}\nfirst_byte %{time_starttransfer}\ntotal %{time_total}\ncode %{http_code}\n
